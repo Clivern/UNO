@@ -18,6 +18,10 @@
 - [Using Python and an Arduino to Read a Sensor.](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
 - [Arduino and Raspberry Pi, working together over a serial communication.](https://www.youtube.com/watch?v=nh5geiIDqjA)
 
+## Third-Party Packages
+
+- [PySerial](https://github.com/pyserial/pyserial)
+
 
 ## Versioning
 
