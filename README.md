@@ -13,10 +13,10 @@
 
 ## References
 
-- [Arduino Cookbook, 2nd Edition 2nd Edition](https://www.amazon.com/Arduino-Cookbook-2nd-Michael-Margolis/dp/1449313876)
-- [A Complete Guide to Programming in C++: Basics ONLY](https://www.amazon.com/Complete-Guide-Programming-Title-Demand/dp/0763718173)
-- [Using Python and an Arduino to Read a Sensor](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
-- [Arduino and Raspberry Pi, working together over a serial communication](https://www.youtube.com/watch?v=nh5geiIDqjA)
+- [Arduino Cookbook, 2nd Edition 2nd Edition.](https://www.amazon.com/Arduino-Cookbook-2nd-Michael-Margolis/dp/1449313876)
+- [A Complete Guide to Programming in C++. BASICS ONLY!](https://www.amazon.com/Complete-Guide-Programming-Title-Demand/dp/0763718173)
+- [Using Python and an Arduino to Read a Sensor.](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
+- [Arduino and Raspberry Pi, working together over a serial communication.](https://www.youtube.com/watch?v=nh5geiIDqjA)
 
 
 ## Versioning
