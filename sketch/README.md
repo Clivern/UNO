@@ -7,18 +7,18 @@
 #### Sketch 1
 
 ```cpp
-#define LED 13                 // The pin the LED is connected to
+#define LED 13
 
 void setup() {
   Serial.begin(9600);
-  pinMode(LED, OUTPUT);        // Declare the LED as an output
+  pinMode(LED, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(LED, HIGH);     // sets the digital pin LED on
-  delay(1000);                 // waits for a second
-  digitalWrite(LED, LOW);      // sets the digital pin LED off
-  delay(1000);                 // waits for a second
+  digitalWrite(LED, HIGH);
+  delay(1000);
+  digitalWrite(LED, LOW);
+  delay(1000);
   Serial.write("hello\n");
 }
 ```
