@@ -1,4 +1,13 @@
-### Arduino UNO With Raspberry PI Sketches
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Clivern/Uno/main/assets/logo.png?v=0.1.0" width="240" />
+    <h3 align="center">Arduino UNO With Raspberry PI Sketches</h3>
+    <p align="center">
+        <a href="https://github.com/Clivern/Uno/blob/master/LICENSE">
+            <img src="https://img.shields.io/badge/LICENSE-MIT-orange.svg">
+        </a>
+    </p>
+</p>
+<br/>
 
 #### Sketch 1
 
