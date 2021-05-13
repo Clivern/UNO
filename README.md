@@ -17,6 +17,9 @@
 - [A Complete Guide to Programming in C++. BASICS ONLY!](https://www.amazon.com/Complete-Guide-Programming-Title-Demand/dp/0763718173)
 - [Using Python and an Arduino to Read a Sensor.](https://pythonforundergradengineers.com/python-arduino-potentiometer.html)
 - [Arduino and Raspberry Pi, working together over a serial communication.](https://www.youtube.com/watch?v=nh5geiIDqjA)
+- [Arduino Reference](https://www.arduino.cc/reference/en/)
+- [Arduino Tutorials](https://arduinogetstarted.com/arduino-tutorials)
+
 
 ## Third-Party Packages
 
