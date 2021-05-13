@@ -26,8 +26,8 @@ void loop() {
 On Raspberry PI or Laptop 
 
 ```bash
-python -m venv venv
-pip install pyserial
+$ python -m venv venv
+$ pip install pyserial
 ```
 
 Create a simple python script to read data from serial port.
@@ -76,8 +76,8 @@ void loop() {
 On Raspberry PI or Laptop
 
 ```bash
-python -m venv venv
-pip install pyserial
+$ python -m venv venv
+$ pip install pyserial
 ```
 
 Create a simple python script to read data from serial port.
