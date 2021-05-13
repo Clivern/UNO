@@ -89,7 +89,6 @@ import time
 ser = serial.Serial('/dev/cu.usbmodem14101', 9800, timeout=1)
 time.sleep(2)
 
-# Getting Started
 ser.write(b"ON")
 for i in range(200):
     line = ser.readline()
