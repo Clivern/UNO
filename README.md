@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/Clivern/Uno/main/assets/logo.png?v=0.1.0" width="240" />
     <h3 align="center">Uno</h3>
-    <p align="center">Arduino Uno Board With Raspberry Pi 4 Code</p>
+    <p align="center">Arduino Uno Board With Raspberry Pi 4</p>
     <p align="center">
         <a href="https://github.com/Clivern/Uno/blob/master/LICENSE">
             <img src="https://img.shields.io/badge/LICENSE-MIT-orange.svg">
