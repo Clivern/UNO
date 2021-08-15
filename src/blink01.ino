@@ -2,6 +2,11 @@
 // Use of this source code is governed by the MIT
 // license that can be found in the LICENSE file.
 
+// Hardware Used
+// - PC with Arduino IDE
+// - UNO R3 with Cable 1 PCS
+// - Red Led 5 PCS
+
 #define LED 13  // The pin the LED is connected to
 
 void setup() {
