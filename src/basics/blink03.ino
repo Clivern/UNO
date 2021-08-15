@@ -5,10 +5,10 @@
 // Hardware Used (To build two circuits)
 // - PC with Arduino IDE
 // - UNO R3 with Cable 1 PCS
-// - 2 Leds 5 PCS (Blue, Red, Green)
+// - 2 Leds 5 PCS (Blue, Red)
 // - 830 Tie-Points BreadBoard 1 PCS
-// - 65 Jumper Wire 1 PCS (~6)
-// - Resistor 100 PCS (2)
+// - 65 Jumper Wire 1 PCS (~6 Used)
+// - Resistor 100 PCS (2 Used)
 
 #define RED 13                  // The pin the RED is connected to
 #define YELLOW 12               // The pin the YELLOW is connected to
