@@ -2,7 +2,7 @@
 // Use of this source code is governed by the MIT
 // license that can be found in the LICENSE file.
 
-// Hardware Used (To build two circuits)
+// Hardware Used
 // - PC with Arduino IDE
 // - UNO R3 with Cable 1 PCS
 // - Red Led 5 PCS
