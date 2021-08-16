@@ -14,9 +14,9 @@
 const int LED = 13;
 const int BUTTON = 7;
 
-int val = 0;
-int old_val = 0;
-int state = 0;
+int val = 0;          // Button current value
+int old_val = 0;      // Button old value
+int state = 0;        // Button state (1 or 0)
 
 void setup() {
   pinMode(LED, OUTPUT);
@@ -26,7 +26,9 @@ void setup() {
 void loop() {
   val = digitalRead(BUTTON);
 
+  // Check if button is clicked
   if ((val == HIGH) && (old_val == LOW)) {
+    // Switch the state
     state = 1 - state;
     delay(10);
   }
