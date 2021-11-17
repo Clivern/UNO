@@ -38,7 +38,7 @@ int readSensor() {
   digitalWrite(sensorPower, HIGH);    // Turn the sensor ON
   delay(10);                          // Wait 10 milliseconds
 
-  val = analogRead(sensorPin);        // Read the analog value form sensor
+  val = analogRead(sensorPin);        // Read the analog value from the sensor
   digitalWrite(sensorPower, LOW);     // Turn the sensor OFF
 
   return val;                         // Send current reading
