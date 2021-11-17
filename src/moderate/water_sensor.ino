@@ -5,7 +5,6 @@
 // Hardware Used
 // - PC with Arduino IDE
 // - UNO R3 with Cable 1 PCS
-// - Red Led 5 PCS
 // - Water Level Detection Sensor Module 1 PCS
 
 #define sensorPower 7
