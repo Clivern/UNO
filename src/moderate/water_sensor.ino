@@ -5,7 +5,6 @@
 // Hardware Used
 // - PC with Arduino IDE
 // - UNO R3 with Cable 1 PCS
-// - Red Led 5 PCS
 // - Water Level Detection Sensor Module 1 PCS
 
 #define sensorPower 7
@@ -39,7 +38,7 @@ int readSensor() {
   digitalWrite(sensorPower, HIGH);    // Turn the sensor ON
   delay(10);                          // Wait 10 milliseconds
 
-  val = analogRead(sensorPin);        // Read the analog value form sensor
+  val = analogRead(sensorPin);        // Read the analog value from the sensor
   digitalWrite(sensorPower, LOW);     // Turn the sensor OFF
 
   return val;                         // Send current reading
