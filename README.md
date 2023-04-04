@@ -19,6 +19,8 @@
 - [Arduino and Raspberry Pi, working together over a serial communication.](https://www.youtube.com/watch?v=nh5geiIDqjA)
 - [Arduino Reference.](https://www.arduino.cc/reference/en/)
 - [Arduino Tutorials.](https://arduinogetstarted.com/arduino-tutorials)
+- [DHT11 Sensor](https://www.electronicwings.com/sensors-modules/dht11)
+- [Arduino Exporter](https://github.com/Clivern/arduino_exporter)
 
 
 ## Third-Party Packages
